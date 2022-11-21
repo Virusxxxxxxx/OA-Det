@@ -11,12 +11,12 @@ This project is the official implementation of OA-Det.
 
 * Visualization results on the test set of DOTA.
 
-<img src="" width="1000"/>
+<img src="https://github.com/Virusxxxxxxx/OA-Det/blob/master/resources/dota.png?raw=true" width="1000"/>
 
 * Visualization results on HRSC2016.
 
-<img src="" width="1000"/>
+<img src="https://github.com/Virusxxxxxxx/OA-Det/blob/master/resources/hrsc.png?raw=true" width="1000"/>
 
 * Visualization results on UCAS-AOD.
 
-<img src="" width="1000"/>
+<img src="https://github.com/Virusxxxxxxx/OA-Det/blob/master/resources/ucas.png?raw=true" width="1000"/>

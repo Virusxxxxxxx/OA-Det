@@ -1,4 +1,4 @@
-# OA-Det: Coarse-to-Fine Feature Alignment Network for Oriented Object Detection in Aerial Images
+# Shared-weight-based Multi-dimensional Feature Alignment Network for Oriented Object Detection in Remote Sensing Imagery
 This project is the official implementation of OA-Det.
 
 ## Main Results

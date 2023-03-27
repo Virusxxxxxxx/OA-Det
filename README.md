@@ -5,6 +5,7 @@ Our model is based on the [MMRotate](https://github.com/open-mmlab/mmrotate), an
 
 ## Highlight
 
+<img src="https://github.com/Virusxxxxxxx/OA-Det/blob/master/resources/ga.png?raw=true"  width="1000"/>
 
 ## Main Results
 

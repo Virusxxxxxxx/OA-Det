@@ -1,5 +1,6 @@
 # Shared-weight-based Multi-dimensional Feature Alignment Network for Oriented Object Detection in Remote Sensing Imagery
-This project is the official implementation of OA-Det.
+This project is the official implementation of OA-Det.  
+The paper has been made available in open access format at [https://www.mdpi.com/1424-8220/23/1/207].
 
 ## Main Results
 

@@ -1,6 +1,10 @@
 # Shared-weight-based Multi-dimensional Feature Alignment Network for Oriented Object Detection in Remote Sensing Imagery
 This project is the official implementation of OA-Det.  
-The paper has been made available in open access format at [https://www.mdpi.com/1424-8220/23/1/207].
+The paper has been made available in open access format at [https://www.mdpi.com/1424-8220/23/1/207].  
+Our model is based on the [MMRotate](https://github.com/open-mmlab/mmrotate), an open-source toolbox for oriented object detection based on PyTorch.
+
+## Highlight
+
 
 ## Main Results
 
@@ -21,3 +25,21 @@ The paper has been made available in open access format at [https://www.mdpi.com
 * Visualization results on UCAS-AOD.
 
 <img src="https://github.com/Virusxxxxxxx/OA-Det/blob/master/resources/ucas.png?raw=true" width="1000"/>
+
+## Citation
+If you use our work in your research, please cite this project.
+```bibtex
+@article{OADet,
+  title={Shared-Weight-Based Multi-Dimensional Feature Alignment Network for Oriented Object Detection in Remote Sensing Imagery},
+  author={Hu, Xinxin and Zhu, Changming},
+  journal={Sensors},
+  volume={23},
+  number={1},
+  pages={207},
+  year={2022},
+  publisher={MDPI}
+}
+```
+
+## License
+This project is released under the [Apache 2.0 license](LICENSE).
